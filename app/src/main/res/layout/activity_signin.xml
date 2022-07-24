@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/sgn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif"
+        android:text="Kesehatan Ku"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:id="@+id/textsgn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:text="Login untuk masuk"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:layout_below="@id/sgn"
+        android:layout_centerHorizontal="true"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/input_group"
+        android:layout_below="@id/textsgn"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:id="@+id/image">
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:maxHeight="200dp"
+            android:src="@drawable/img" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/input_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_marginBottom="40dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_edit_text_top"
+            android:hint="Username"
+            android:inputType="textPersonName"
+            android:padding="15dp"
+            android:id="@+id/username"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_edit_text_bottom"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:padding="15dp"
+            android:id="@+id/password"/>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/background_button"
+            android:text="SIGN UP"
+            android:textAllCaps="false"
+            android:textColor="#4CA2CD"
+            android:textSize="14sp"
+            android:id="@+id/btnsignUp"/>
+
+        <TextView
+            android:id="@+id/signIn_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:padding="10dp"
+            android:text="Already Have an Account?  Sign in"
+            android:textAllCaps="true"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:fontFamily="sans-serif"/>
+
+    </LinearLayout>
+</RelativeLayout>

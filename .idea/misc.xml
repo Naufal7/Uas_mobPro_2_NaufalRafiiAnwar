@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/background.xml" value="0.37864583333333335" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/background_button.xml" value="0.37864583333333335" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/background_edit_text_top.xml" value="0.37864583333333335" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/background_img_circle.xml" value="0.37864583333333335" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/cercleshape.xml" value="0.22708333333333333" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/gradient.xml" value="0.22708333333333333" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/ic_account_circle_black_24dp.xml" value="0.22708333333333333" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/ic_chat_black_24dp.xml" value="0.37864583333333335" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/drawable/ic_rescue.xml" value="0.37864583333333335" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/activity_chat.xml" value="0.3625" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/activity_detail_animal.xml" value="0.3625" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/activity_edituser.xml" value="0.2109375" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/activity_login.xml" value="0.2884963768115942" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/activity_signin.xml" value="0.3625" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/fragment_chatting.xml" value="0.2109375" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/fragment_dashboard.xml" value="0.2109375" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/fragment_rescue.xml" value="0.2109375" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/item.xml" value="0.2109375" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/layout/item_animals.xml" value="0.2109375" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/menu/main_menu.xml" value="0.2109375" />
+        <entry key="..\:/All Tugas/AndroidStudioProjects/Pets/app/src/main/res/menu/menu_action.xml" value="0.2109375" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/drawable/animal_bg.xml" value="0.198" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/drawable/background.xml" value="0.236" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/drawable/background_button.xml" value="0.236" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/drawable/background_edit_text_bottom.xml" value="0.236" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/drawable/background_edit_text_middle.xml" value="0.236" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/activity_detail_animal.xml" value="0.24547101449275363" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/activity_login.xml" value="0.24547101449275363" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/activity_main.xml" value="0.19293478260869565" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/activity_rescue.xml" value="0.27447916666666666" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/activity_signin.xml" value="0.27447916666666666" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/activity_splashscreen.xml" value="0.264" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/fragment_dashboard.xml" value="0.27447916666666666" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/fragment_profile.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/fragment_rescue.xml" value="0.27447916666666666" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/item.xml" value="0.27447916666666666" />
+        <entry key="..\:/Uas_mobPro_2_NaufalRafiiAnwar/app/src/main/res/layout/item_animals.xml" value="0.27447916666666666" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/activity_chat.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/activity_detail_animal.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/activity_edituser.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/activity_login.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/activity_rescue.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/activity_signin.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/activity_splashscreen.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/fragment_dashboard.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/fragment_profile.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/fragment_rescue.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/item.xml" value="0.17708333333333334" />
+        <entry key="..\:/Uas_mobPro_2_ResnaMulya/app/src/main/res/layout/item_animals.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/REPUBLIC OF GAMING/Downloads/Uas_mobPro_2_revisi copy/app/src/main/res/drawable/background.xml" value="0.1975" />
+        <entry key="..\:/Users/REPUBLIC OF GAMING/Downloads/Uas_mobPro_2_revisi copy/app/src/main/res/drawable/gradient.xml" value="0.1975" />
+        <entry key="..\:/Users/REPUBLIC OF GAMING/Downloads/Uas_mobPro_2_revisi copy/app/src/main/res/layout/activity_detail_animal.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/REPUBLIC OF GAMING/Downloads/Uas_mobPro_2_revisi copy/app/src/main/res/layout/activity_edituser.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/REPUBLIC OF GAMING/Downloads/Uas_mobPro_2_revisi copy/app/src/main/res/layout/activity_login.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/REPUBLIC OF GAMING/Downloads/Uas_mobPro_2_revisi copy/app/src/main/res/layout/activity_rescue.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/REPUBLIC OF GAMING/Downloads/Uas_mobPro_2_revisi copy/app/src/main/res/layout/activity_splashscreen.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/REPUBLIC OF GAMING/Downloads/Uas_mobPro_2_revisi copy/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/animal_bg.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/background_button.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/ic_chat_black_24dp.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/ic_pets_black_24dp.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/loker_bg.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/drawable/my_message.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_chat.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_detail_animal.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_edituser.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_rescue.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_signin.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_splashscreen.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/activity_view_pager.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/fragment_chatting.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/fragment_dashboard.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/fragment_profile.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/fragment_rescue.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/item.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/layout/item_animals.xml" value="0.3625" />
+        <entry key="..\:/Users/naufa/Downloads/Uas_mobPro_2/app/src/main/res/menu/main_menu.xml" value="0.3625" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/activity_detail_animal.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/activity_edituser.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/activity_rescue.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/activity_splashscreen.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/item_animals.xml" value="0.2864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
